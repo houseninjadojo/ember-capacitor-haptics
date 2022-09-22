@@ -1,7 +1,7 @@
 {
   "name": "@ember-capacitor/haptics",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Haptics Capacitor plugin as Ember Service.",
   "keywords": [
     "ember-addon",
     "capacitor",
